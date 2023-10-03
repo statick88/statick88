@@ -3,11 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=statick88&label=Profile%20views&color=0e75b6&style=flat" alt="statick88" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=statick88" alt="statick88" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/statick_ds" target="blank"><img src="https://img.shields.io/twitter/follow/statick_ds?logo=twitter&style=for-the-badge" alt="statick_ds" /></a> </p>
+
 - 🔭 I’m currently working on [Course of Django](https://statick88.github.io/Curso_Django/#/title-slide)
+
+- 🌱 I’m currently learning **Reflex, nextjs**
 
 - 👯 I’m looking to collaborate on [Course of Python](https://statick88.github.io/Course_of_python/)
 
 - 🤝 I’m looking for help with [Course of Quarto](https://statick88.github.io/course_of_quarto/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/statick88](https://github.com/statick88)
+
+- 📝 I regularly write articles on [https://statick88.github.io](https://statick88.github.io)
+
+- 💬 Ask me about **python, django, docker**
+
+- 📫 How to reach me **dmsaavedra@espe.edu.ec**
+
+- 📄 Know about my experiences [I'm teacher for departament of Computer Science](I'm teacher for departament of Computer Science)
+
+- ⚡ Fan fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=statick88&show_icons=true&locale=en&layout=compact" alt="statick88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=statick88&show_icons=true&locale=en" alt="statick88" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=statick88&" alt="statick88" /></p>
