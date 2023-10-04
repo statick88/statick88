@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Diego Saavedra</h1>
-<h3 align="center">A passionate FullStack Develpment, Learning Engineer, Artificial Intelligence and Data Science</h3>
+<h3 align="center">A passionate Full Stack Developer, Learning Engineer, Artificial Intelligence, and Data Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=statick88&label=Profile%20views&color=0e75b6&style=flat" alt="statick88" /> </p>
 
-
 ### Hi there 👋
 
-- 🇪🇨 Teacher for Department of Computer Science in University of Fources Armed ESPE.
-- 🇪🇨 Facilitator of Courses of Technology in Abacom (Python, Django, JavaScript, Html5, Css3) 
+- 🇪🇨 Teacher at the Department of Computer Science at the University of Armed Forces ESPE.
+- 🇪🇨 Facilitator of Technology Courses at Abacom (Python, Django, JavaScript, HTML5, CSS3).
 
-Books
-- 📚 Python: [Course of Python](https://statick88.github.io/Course_of_python/)
-- 📚 Python: [Course of Quarto](https://statick88.github.io/course_of_quarto/)
+Books:
+- 📚 Python: [Python Course](https://statick88.github.io/Course_of_python/)
+- 📚 Python: [Quarto Course](https://statick88.github.io/course_of_quarto/)
 - 📚 Python: [Quarto Book](https://statick88.github.io/quarto_book/)
-- 📚 Python: [Fundamentos Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
-
-
+- 📚 Python: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/statick_ds" target="blank"><img src="https://img.shields.io/twitter/follow/statick_ds?logo=twitter&style=for-the-badge" alt="statick_ds" /></a> </p>
