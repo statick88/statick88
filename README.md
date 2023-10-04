@@ -5,8 +5,8 @@
 
 ### Hi there 👋
 
-- 🇪🇨 Teacher at the Department of Computer Science at the University of Armed Forces ESPE.
-- 🇪🇨 Facilitator of Technology Courses at Abacom (Python, Django, JavaScript, HTML5, CSS3).
+- 🇪🇨 Teacher at the [Department of Computer Science at the University of Armed Forces ESPE](https://dcco.espe.edu.ec/).
+- 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django, JavaScript, HTML5, CSS3).
 
 Books:
 - 📚 Python: [Python Course](https://statick88.github.io/Course_of_python/)
