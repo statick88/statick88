@@ -8,9 +8,11 @@
 - 🇪🇨 Teacher at the [Department of Computer Science at the University of Armed Forces ESPE](https://dcco.espe.edu.ec/).
 - 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django, JavaScript, HTML5, CSS3).
 
-Books:
+Courses:
 - 📚 Python: [Python Course](https://statick88.github.io/Course_of_python/)
 - 📚 Python: [Quarto Course](https://statick88.github.io/course_of_quarto/)
+
+Books:
 - 📚 Python: [Quarto Book](https://statick88.github.io/quarto_book/)
 - 📚 Python: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
 
