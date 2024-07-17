@@ -6,11 +6,16 @@
 ### Hi there 👋
 
 - 🇪🇨 Teacher at the [Department of Computer Science at the University of Armed Forces ESPE](https://dcco.espe.edu.ec/).
-- 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django, JavaScript, HTML5, CSS3).
+- 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django, Flask, FastAPI, , HTML5, CSS3, JavaScript, Typescript, React, Next, Nest, Angular, Vue, Svelte, C#, .Net, Java, Spring Boot, Ruby, Ruby on Rails, AWS, Azure, Railway, Vercel, Github Pages ).
 
 Courses:
 - 📚 Python: [Python Course](https://statick88.github.io/Course_of_python/)
-- 📚 Python: [Quarto Course](https://statick88.github.io/course_of_quarto/)
+- 📚 Django and React: [Django and React](https://statick88.github.io/course_of_django_and_react/)
+- 📚 Quarto: [Quarto Course](https://statick88.github.io/course_of_quarto/)
+- 📚 Ruby on Rails: [Ruby on Rails](https://statick88.github.io/course_of_ruby_on_rails/)]
+- 📚 TypeScript: [Typescript](https://statick88.github.io/course_of_typescript/)
+- 📚 React: [React](https://statick88.github.io/course_of_react/)
+- 📚 Next: [Next](https://statick88.github.io/course_of_next/)
 
 Books:
 - 📚 Python: [Quarto Book](https://statick88.github.io/quarto_book/)
