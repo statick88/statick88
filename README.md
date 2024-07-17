@@ -11,6 +11,7 @@
 Books:
 - 📚 Python: [Quarto Book](https://statick88.github.io/quarto_book/)
 - 📚 Data Engineer: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
+- 📚 Docker: [Docker](https://statick88.github.io/course_docker/)
 - 📚 Django and React: [Django and React](https://statick88.github.io/course_of_django_and_react/)
 - 📚 Quarto: [Quarto Course](https://statick88.github.io/course_of_quarto/)
 - 📚 Ruby on Rails: [Ruby on Rails](https://statick88.github.io/course_of_ruby_on_rails/)]
@@ -18,6 +19,9 @@ Books:
 - 📚 React: [React](https://statick88.github.io/course_of_react/)
 - 📚 Next: [Next](https://statick88.github.io/course_of_next/)
 
+Signatures:
+- 📚 Programación Web Avanzada: [Programación Web Avanzada](https://statick88.github.io/programacionWebAvanzada/)
+- 📚 Desarrollo de Software Seguro: [Desarrollo de Software Seguro](https://statick88.github.io/desarrollo-software-seguro/)
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/statick_ds" target="blank"><img src="https://img.shields.io/twitter/follow/statick_ds?logo=twitter&style=for-the-badge" alt="statick_ds" /></a> </p>
 
