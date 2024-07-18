@@ -9,7 +9,7 @@
 - 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django, Flask, FastAPI, , HTML5, CSS3, JavaScript, Typescript, React, Next, Nest, Angular, Vue, Svelte, C#, .Net, Java, Spring Boot, Ruby, Ruby on Rails, AWS, Azure, Railway, Vercel, Github Pages ).
 
 Books:
-- 📚 Python: [Quarto Book](https://statick88.github.io/quarto_book/)
+- 📚 Python: [Python Book](https://statick88.github.io/Course_of_python/)
 - 📚 Django and React: [Django and React](https://statick88.github.io/course_of_django_and_react/)
 - 📚 Data Engineer: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
 - 📚 Ruby on Rails: [Ruby on Rails](https://statick88.github.io/course_of_ruby_on_rails/)]
