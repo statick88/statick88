@@ -5,9 +5,9 @@
 
 ### Hi there 👋
 
-- 🇪🇨 Teacher at the [Department of Computer Science at the University of Armed Forces ESPE](https://dcco.espe.edu.ec/).
+- 🇪🇨 Teacher at the [Department of Computer Science at the University of Armed Forces ESPE](https://dcco.espe.edu.ec/) (Quarto, Python, Django, Flask, FastAPI, HTML5, CSS3, JavaScript, Typescript, React, Next, Nest, Angular, Vue, Svelte, C#, .Net, Java, Spring Boot, Ruby, Ruby on Rails, AWS, Azure, Railway, Vercel, Github Pages )..
 - 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django HTML5, CSS3, JavaScript).
-- 🇪🇨 Facilitator of Technology Courses at [Coding Academy](https://codingsacademy.com/) (Python, Django, Flask, FastAPI, , HTML5, CSS3, JavaScript, Typescript, React, Next, Nest, Angular, Vue, Svelte, C#, .Net, Java, Spring Boot, Ruby, Ruby on Rails, AWS, Azure, Railway, Vercel, Github Pages ).
+- 🇪🇨 Facilitator of Technology Courses at [Coding Academy](https://codingsacademy.com/) (Python, Django, Flask, FastAPI, HTML5, CSS3, JavaScript, React, Railway, Vercel, Github Pages).
 
 # Books:
 - 📚 Python: [Python Book](https://statick88.github.io/Course_of_python/)
