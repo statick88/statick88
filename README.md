@@ -6,9 +6,10 @@
 ### Hi there 👋
 
 - 🇪🇨 Teacher at the [Department of Computer Science at the University of Armed Forces ESPE](https://dcco.espe.edu.ec/).
-- 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django, Flask, FastAPI, , HTML5, CSS3, JavaScript, Typescript, React, Next, Nest, Angular, Vue, Svelte, C#, .Net, Java, Spring Boot, Ruby, Ruby on Rails, AWS, Azure, Railway, Vercel, Github Pages ).
+- 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django HTML5, CSS3, JavaScript).
+- 🇪🇨 Facilitator of Technology Courses at [Coding Academy](https://codingsacademy.com/) (Python, Django, Flask, FastAPI, , HTML5, CSS3, JavaScript, Typescript, React, Next, Nest, Angular, Vue, Svelte, C#, .Net, Java, Spring Boot, Ruby, Ruby on Rails, AWS, Azure, Railway, Vercel, Github Pages ).
 
-Books:
+# Books:
 - 📚 Python: [Python Book](https://statick88.github.io/Course_of_python/)
 - 📚 Django and React: [Django and React](https://statick88.github.io/course_of_django_and_react/)
 - 📚 Data Engineer: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
@@ -18,7 +19,7 @@ Books:
 - 📚 TypeScript: [Typescript](https://statick88.github.io/course_of_typescript/)
 - 📚 React: [React](https://statick88.github.io/course_of_react/)
 - 📚 Next: [Next](https://statick88.github.io/course_of_next/)
-Signatures:
+# Signatures:
 - 📚 Programación Web Avanzada: [Programación Web Avanzada](https://statick88.github.io/programacionWebAvanzada/)
 - 📚 Desarrollo de Software Seguro: [Desarrollo de Software Seguro](https://statick88.github.io/desarrollo-software-seguro/)
 <h3 align="left">Connect with me:</h3>
