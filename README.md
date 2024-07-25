@@ -9,7 +9,7 @@
 - 🇪🇨 Facilitator of Technology Courses at [Abacom](https://abacom.edu.ec/) (Python, Django HTML5, CSS3, JavaScript).
 - 🇪🇨 Facilitator of Technology Courses at [Coding Academy](https://codingsacademy.com/) (Python, Django, Flask, FastAPI, HTML5, CSS3, JavaScript, React, Railway, Vercel, Github Pages).
 
-# Books:
+# Courses in eBooks:
 - 📚 Python: [Python Book](https://statick88.github.io/Course_of_python/)
 - 📚 Django and React: [Django and React](https://statick88.github.io/course_of_django_and_react/)
 - 📚 FastAPI: [FastAPI](https://statick88.github.io/course_of_FastAPI/)
