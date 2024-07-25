@@ -12,13 +12,14 @@
 # Books:
 - 📚 Python: [Python Book](https://statick88.github.io/Course_of_python/)
 - 📚 Django and React: [Django and React](https://statick88.github.io/course_of_django_and_react/)
-- 📚 Data Engineer: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
+- 📚 FastAPI: [FastAPI](https://statick88.github.io/course_of_FastAPI/)
 - 📚 Ruby on Rails: [Ruby on Rails](https://statick88.github.io/course_of_ruby_on_rails/)]
 - 📚 Docker: [Docker](https://statick88.github.io/course_docker/)
 - 📚 Quarto: [Quarto Course](https://statick88.github.io/course_of_quarto/)
 - 📚 TypeScript: [Typescript](https://statick88.github.io/course_of_typescript/)
 - 📚 React: [React](https://statick88.github.io/course_of_react/)
 - 📚 Next: [Next](https://statick88.github.io/course_of_next/)
+- 📚 Data Engineer: [Fundamentals Data Engineer](https://statick88.github.io/book_fundamentos_dataEngineer/)
 # Signatures:
 - 📚 Programación Web Avanzada: [Programación Web Avanzada](https://statick88.github.io/programacionWebAvanzada/)
 - 📚 Desarrollo de Software Seguro: [Desarrollo de Software Seguro](https://statick88.github.io/desarrollo-software-seguro/)
