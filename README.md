@@ -38,15 +38,12 @@ A passionate Full Stack Developer, Learning Engineer, Artificial Intelligence, a
 - [Docker](https://statick88.github.io/course_docker/)
 
 ### Frontend Development
-- [HTML5, CSS3, JavaScript](https://statick88.github.io/programming_basics)
 - [TypeScript](https://statick88.github.io/course_of_typescript/)
 - [React](https://statick88.github.io/course_of_react/)
 - [Next.js](https://statick88.github.io/course_of_next/)
-- [Vue.js](https://statick88.github.io/course_of_vuejs/)
 
 ### Data Science & Data Engineering
 - [Fundamentals of Data Engineering](https://statick88.github.io/book_fundamentos_dataEngineer/)
-- [Python for Data Science](https://statick88.github.io/course_of_python/)
 
 ### Mobile Development
 - [Curso de Android Studio](https://statick88.github.io/Course_of_Android_Studio/)
