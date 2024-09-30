@@ -22,15 +22,6 @@ A passionate Full Stack Developer, Learning Engineer, Artificial Intelligence, a
 
 ## 📚 Courses and eBooks
 
-### Full Stack Development
-- [Python Book](https://statick88.github.io/Course_of_python/)
-- [Django and React](https://statick88.github.io/course_of_django_and_react/)
-- [FastAPI](https://statick88.github.io/course_of_FastAPI/)
-- [Ruby on Rails](https://statick88.github.io/course_of_ruby_on_rails/)
-- [TypeScript](https://statick88.github.io/course_of_typescript/)
-- [React](https://statick88.github.io/course_of_react/)
-- [Next.js](https://statick88.github.io/course_of_next/)
-
 ### Backend Development
 - [Django and React](https://statick88.github.io/course_of_django_and_react/)
 - [FastAPI](https://statick88.github.io/course_of_FastAPI/)
